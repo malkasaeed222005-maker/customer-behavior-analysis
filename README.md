@@ -44,9 +44,9 @@ subscription status, sales performance, and revenue distribution.
 ![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
 
 ## 💡 Key Insights
-- Clothing represents the highest sales and revenue among the displayed categories.
-- Customer subscription status is predominantly non-subscribed.
-- Adult customers contribute the highest sales among the displayed age groups.
+- Clothing is the leading category in terms of sales and revenue.
+- Most customers are non-subscribers, indicating an opportunity to improve subscription engagement.
+- Adult customers contribute the highest sales among the analyzed age groups.
 
 ## 🚀 Project Purpose
 This project demonstrates practical skills in data analysis,
