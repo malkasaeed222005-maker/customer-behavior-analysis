@@ -41,7 +41,7 @@ subscription status, sales performance, and revenue distribution.
 
 ## 🖼️ Dashboard Preview
 
-![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 ## 💡 Key Insights
 - Clothing is the leading category in terms of sales and revenue.
